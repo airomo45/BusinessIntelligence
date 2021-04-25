@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_BusinessIntelligence_BusinessIntelligenceTests : NSObject
+@end
+@implementation PodsDummy_Pods_BusinessIntelligence_BusinessIntelligenceTests
+@end

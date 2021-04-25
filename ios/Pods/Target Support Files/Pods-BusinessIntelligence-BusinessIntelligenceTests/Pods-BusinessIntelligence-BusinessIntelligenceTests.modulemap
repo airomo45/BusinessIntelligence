@@ -1,0 +1,6 @@
+module Pods_BusinessIntelligence_BusinessIntelligenceTests {
+  umbrella header "Pods-BusinessIntelligence-BusinessIntelligenceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
